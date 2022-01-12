@@ -1,0 +1,22 @@
+{
+  "group": "uncraftable_items_craftable",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:stone",
+      "data": 0
+    },
+    "1": {
+      "item": "minecraft:sapling",
+      "data": 32767
+    }
+  },
+  "result": {
+    "item": "minecraft:dirt",
+    "data": 0,
+    "count": 1
+  }
+}

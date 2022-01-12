@@ -1,0 +1,39 @@
+{
+  "group": "uncraftable_items_craftable",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " 1 ",
+    "345",
+    "67 "
+  ],
+  "key": {
+    "1": {
+      "item": "minecraft:red_flower",
+      "data": 1
+    },
+    "3": {
+      "item": "minecraft:dirt",
+      "data": 0
+    },
+    "4": {
+      "item": "minecraft:dirt",
+      "data": 0
+    },
+    "5": {
+      "item": "minecraft:red_flower",
+      "data": 1
+    },
+    "6": {
+      "item": "minecraft:dirt",
+      "data": 0
+    },
+    "7": {
+      "item": "minecraft:dirt",
+      "data": 0
+    }
+  },
+  "result": {
+    "item": "minecraft:mycelium",
+    "count": 1
+  }
+}

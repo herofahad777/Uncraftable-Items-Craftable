@@ -1,0 +1,34 @@
+{
+  "group": "uncraftable_items_craftable",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "  2",
+    "345",
+    "  8"
+  ],
+  "key": {
+    "2": {
+      "item": "minecraft:coal",
+      "data": 0
+    },
+    "3": {
+      "item": "minecraft:sand",
+      "data": 1
+    },
+    "4": {
+      "item": "minecraft:dirt",
+      "data": 2
+    },
+    "5": {
+      "item": "minecraft:stick"
+    },
+    "8": {
+      "item": "minecraft:coal",
+      "data": 1
+    }
+  },
+  "result": {
+    "item": "minecraft:soul_sand",
+    "count": 1
+  }
+}

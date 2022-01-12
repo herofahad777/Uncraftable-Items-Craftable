@@ -1,0 +1,26 @@
+{
+  "group": "uncraftable_items_craftable",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "  2",
+    " 4 ",
+    "6  "
+  ],
+  "key": {
+    "2": {
+      "item": "minecraft:stick"
+    },
+    "4": {
+      "item": "minecraft:dirt",
+      "data": 32767
+    },
+    "6": {
+      "item": "minecraft:string"
+    }
+  },
+  "result": {
+    "item": "minecraft:sand",
+    "data": 0,
+    "count": 1
+  }
+}

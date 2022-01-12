@@ -1,0 +1,30 @@
+{
+  "group": "uncraftable_items_craftable",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    " 4 "
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:sand",
+      "data": 0
+    },
+    "1": {
+      "item": "minecraft:leaves",
+      "data": 32767
+    },
+    "2": {
+      "item": "minecraft:gravel"
+    },
+    "4": {
+      "item": "minecraft:dirt",
+      "data": 0
+    }
+  },
+  "result": {
+    "item": "minecraft:stone",
+    "data": 3,
+    "count": 1
+  }
+}

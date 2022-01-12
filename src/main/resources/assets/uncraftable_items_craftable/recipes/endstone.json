@@ -1,0 +1,35 @@
+{
+  "group": "uncraftable_items_craftable",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    " 4 ",
+    "6 8"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:sand",
+      "data": 0
+    },
+    "2": {
+      "item": "minecraft:sand",
+      "data": 0
+    },
+    "4": {
+      "item": "minecraft:stone",
+      "data": 0
+    },
+    "6": {
+      "item": "minecraft:sand",
+      "data": 0
+    },
+    "8": {
+      "item": "minecraft:sand",
+      "data": 0
+    }
+  },
+  "result": {
+    "item": "minecraft:end_stone",
+    "count": 1
+  }
+}
